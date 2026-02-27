@@ -1,0 +1,95 @@
+{
+    "nav": {
+        "home": "मुखपृष्ठ",
+        "dashboard": "डॅशबोर्ड",
+        "trace": "ट्रेस",
+        "dao": "डीएओ",
+        "farmerLogin": "शेतकरी लॉगिन",
+        "logout": "लॉग आउट",
+        "connected": "जोडलेले"
+    },
+    "login": {
+        "title": "शेतकरी लॉगिन",
+        "subtitle": "आपला मोबाइल नंबर वापरून लॉगिन करा — वॉलेटची गरज नाही",
+        "phonePlaceholder": "मोबाइल नंबर टाका (उदा. 9876543210)",
+        "sendOtp": "OTP पाठवा",
+        "otpPlaceholder": "6 अंकी OTP टाका",
+        "verifyOtp": "OTP सत्यापित करा",
+        "sending": "OTP पाठवत आहे...",
+        "verifying": "सत्यापन होत आहे...",
+        "success": "लॉगिन यशस्वी!",
+        "orUseWallet": "किंवा क्रिप्टो वॉलेट वापरा",
+        "disclaimer": "तुमचे वॉलेट सुरक्षितपणे तयार होते. कोणतेही सीड वाक्यांश नाही."
+    },
+    "dashboard": {
+        "title": "शेतकरी डॅशबोर्ड",
+        "subtitle": "ब्लॉकचेनवर तुमच्या उत्पादनाचे बॅच तयार करा आणि व्यवस्थापित करा",
+        "tabs": {
+            "create": "बॅच तयार करा",
+            "update": "अपडेट जोडा",
+            "transfer": "हस्तांतरण"
+        },
+        "form": {
+            "cropType": "पिकाचा प्रकार",
+            "quantity": "प्रमाण (किलो)",
+            "origin": "उत्पत्ती ठिकाण",
+            "grade": "गुणवत्ता श्रेणी",
+            "moisture": "ओलावा %",
+            "certifications": "प्रमाणपत्रे",
+            "mediaUrl": "मीडिया / फोटो URL",
+            "createBatch": "बॅच NFT तयार करा",
+            "creating": "बॅच तयार होत आहे...",
+            "tokenId": "बॅच टोकन ID",
+            "updateType": "अपडेटचा प्रकार",
+            "location": "सध्याचे ठिकाण",
+            "temperature": "तापमान (°C)",
+            "notes": "टिप्पणी / नोट्स",
+            "addUpdate": "अपडेट जोडा",
+            "adding": "जोडत आहे...",
+            "recipientAddress": "प्राप्तकर्त्याचा वॉलेट पत्ता",
+            "transferOwnership": "मालकी हस्तांतरित करा",
+            "transferring": "हस्तांतरण होत आहे..."
+        },
+        "status": {
+            "harvested": "काढणी झाली",
+            "processing": "प्रक्रिया",
+            "transit": "वाहतुकीत",
+            "stored": "साठवलेले",
+            "delivered": "वितरित",
+            "sold": "विकले"
+        }
+    },
+    "trace": {
+        "title": "बॅच ट्रेस करा",
+        "subtitle": "संपूर्ण पुरवठा साखळी पाहण्यासाठी बॅच टोकन ID टाका",
+        "searchPlaceholder": "बॅच टोकन ID टाका",
+        "searchButton": "ट्रेस करा",
+        "journey": "पुरवठा साखळी प्रवास",
+        "aiInsights": "AI गुणवत्ता माहिती",
+        "riskLow": "कमी धोका",
+        "riskMedium": "मध्यम धोका",
+        "riskHigh": "जास्त धोका",
+        "shelfLife": "शेल्फ जीवन",
+        "freshness": "ताजेपणा स्कोर",
+        "days": "दिवस"
+    },
+    "badges": {
+        "verified": "सत्यापित",
+        "pending": "प्रलंबित",
+        "highRisk": "जास्त धोका",
+        "gasless": "गॅसलेस ✓",
+        "sponsored": "प्रायोजित"
+    },
+    "general": {
+        "loading": "लोड होत आहे...",
+        "error": "काहीतरी चूक झाली",
+        "retry": "पुन्हा प्रयत्न करा",
+        "copy": "कॉपी करा",
+        "copied": "कॉपी झाले!",
+        "share": "शेअर करा",
+        "download": "डाउनलोड",
+        "cancel": "रद्द करा",
+        "confirm": "पुष्टी करा",
+        "back": "मागे"
+    }
+}

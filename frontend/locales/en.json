@@ -1,0 +1,95 @@
+{
+    "nav": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "trace": "Trace",
+        "dao": "DAO",
+        "farmerLogin": "Farmer Login",
+        "logout": "Logout",
+        "connected": "Connected"
+    },
+    "login": {
+        "title": "Farmer Login",
+        "subtitle": "Login with your mobile number — no wallet needed",
+        "phonePlaceholder": "Enter mobile number (e.g. 9876543210)",
+        "sendOtp": "Send OTP",
+        "otpPlaceholder": "Enter 6-digit OTP",
+        "verifyOtp": "Verify & Login",
+        "sending": "Sending OTP...",
+        "verifying": "Verifying...",
+        "success": "Login successful!",
+        "orUseWallet": "Or connect a crypto wallet",
+        "disclaimer": "Your wallet is created securely. No seed phrases needed."
+    },
+    "dashboard": {
+        "title": "Farmer Dashboard",
+        "subtitle": "Create and manage your produce batches on blockchain",
+        "tabs": {
+            "create": "Create Batch",
+            "update": "Add Update",
+            "transfer": "Transfer"
+        },
+        "form": {
+            "cropType": "Crop Type",
+            "quantity": "Quantity (kg)",
+            "origin": "Origin Location",
+            "grade": "Quality Grade",
+            "moisture": "Moisture %",
+            "certifications": "Certifications",
+            "mediaUrl": "Media / Photo URL",
+            "createBatch": "Mint Batch NFT",
+            "creating": "Creating Batch...",
+            "tokenId": "Batch Token ID",
+            "updateType": "Update Type",
+            "location": "Current Location",
+            "temperature": "Temperature (°C)",
+            "notes": "Notes / Remarks",
+            "addUpdate": "Add Update",
+            "adding": "Adding...",
+            "recipientAddress": "Recipient Wallet Address",
+            "transferOwnership": "Transfer Ownership",
+            "transferring": "Transferring..."
+        },
+        "status": {
+            "harvested": "Harvested",
+            "processing": "Processing",
+            "transit": "In Transit",
+            "stored": "In Storage",
+            "delivered": "Delivered",
+            "sold": "Sold"
+        }
+    },
+    "trace": {
+        "title": "Trace a Batch",
+        "subtitle": "Enter a batch token ID to view its full supply chain journey",
+        "searchPlaceholder": "Enter Batch Token ID",
+        "searchButton": "Trace Batch",
+        "journey": "Supply Chain Journey",
+        "aiInsights": "AI Quality Insights",
+        "riskLow": "Low Risk",
+        "riskMedium": "Medium Risk",
+        "riskHigh": "High Risk",
+        "shelfLife": "Shelf Life",
+        "freshness": "Freshness Score",
+        "days": "days"
+    },
+    "badges": {
+        "verified": "Verified",
+        "pending": "Pending",
+        "highRisk": "High Risk",
+        "gasless": "Gasless ✓",
+        "sponsored": "Sponsored"
+    },
+    "general": {
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "retry": "Try Again",
+        "copy": "Copy",
+        "copied": "Copied!",
+        "share": "Share",
+        "download": "Download",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "back": "Back"
+    }
+}
